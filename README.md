@@ -3,7 +3,7 @@
 
 ![Preview](./.github/preview.png)
 
-[Clique aqui para acessar]()
+[Clique aqui para acessar](https://rafael-damasceno.github.io/Starbucks/)
 
 ## Tecnologias:
 
